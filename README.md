@@ -1,18 +1,8 @@
-# Trello-react-tailwind-project 
-Trello is a single-page application created with React.
-Dependencies used in this project:
+# React + Vite
 
-1- React with Vite 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-2- Tailwind CSS.
+Currently, two official plugins are available:
 
-3- React Icons Library (Feather icons and Bootstrap icons).
-
-4- Pure CSS for Responsive Design.
-
-5- Framer motion ( Animation Library ).
-
-6- All images from the Design sketch and other images from https://Unsplash.com
-
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
